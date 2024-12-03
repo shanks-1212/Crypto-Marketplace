@@ -9,9 +9,9 @@ This is a responsive web application that tracks cryptocurrency prices in real-t
 
 ## Technologies Used:
 - HTML, CSS, JavaScript
-- React (if applicable)
+- React 
 - CoinGecko API
-- Chart.js (or any other chart library used)
+- Chart.js
 
 ## Setup:
 1. Clone the repository.
