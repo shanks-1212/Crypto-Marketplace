@@ -1,22 +1,8 @@
-# Crypto Marketplace
+# React + Vite
 
-This is a responsive web application that tracks cryptocurrency prices in real-time using the CoinGecko API. It displays the latest prices and a dynamic chart for each selected cryptocurrency.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Features:
-- Real-time price tracking for various cryptocurrencies.
-- Display of a dynamic chart to show price changes.
-- Fetches data from CoinGecko API.
+Currently, two official plugins are available:
 
-## Technologies Used:
-- HTML, CSS, JavaScript
-- React 
-- CoinGecko API
-- Chart.js
-
-## Setup:
-1. Clone the repository.
-2. Install dependencies: `npm install` (if using React or Node.js).
-3. Run the project: `npm start`.
-4. Open your browser and go to `http://localhost:3000` (or the relevant port).
-
- 
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
